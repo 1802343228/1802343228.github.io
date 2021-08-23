@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>poicc</title>
   <icon>https://www.gravatar.com/avatar/643aeeca06ed868a63ee3f4125fbf625</icon>
-  <subtitle>学习永无止境</subtitle>
+  <subtitle>poicc</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
